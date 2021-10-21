@@ -5,5 +5,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="TF-State-Management" />
+    <orderEntry type="module" module-name="AWS-CICD-Tools" />
+    <orderEntry type="module" module-name="TerraformProject" />
+    <orderEntry type="module" module-name="pythonProject2" />
   </component>
 </module>

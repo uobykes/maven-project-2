@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../JJTECH/AWS-CICD-Tools/.idea/AWS-CICD-Tools.iml" filepath="$PROJECT_DIR$/../../JJTECH/AWS-CICD-Tools/.idea/AWS-CICD-Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JJTECH/TF-State-Management/.idea/TF-State-Management.iml" filepath="$PROJECT_DIR$/../../JJTECH/TF-State-Management/.idea/TF-State-Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JJTECH/TerraformProject/.idea/TerraformProject.iml" filepath="$PROJECT_DIR$/../../JJTECH/TerraformProject/.idea/TerraformProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/maven-project-2.iml" filepath="$PROJECT_DIR$/.idea/maven-project-2.iml" />
       <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject2/.idea/pythonProject2.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject2/.idea/pythonProject2.iml" />
     </modules>
   </component>
 </project>
